@@ -1,0 +1,4 @@
+* Cloud characterization
+These notebooks show how different convolutional neural networks classify four types of clouds.
+
+The tested nets are LeNet-5 and the winner of CIFAR-10 competition.
